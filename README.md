@@ -1,4 +1,4 @@
-# Offline Currency Calculator In Python
+# (Quick and Dirty) Offline Currency Calculator
 
 This program is a simple calculator to quickly get the equivalency between two currencies with a few bells and whistles. It can be easily updated online (via the "currencyconverterapi.com" API) but it's mainly intended to work offline. 
 
